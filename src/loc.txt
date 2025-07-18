@@ -1,0 +1,4 @@
+http://api.openweathermap.org/geo/1.0/direct?q=Magdeburg,DE&limit=1&appid=bc0dcfc903712e97f7b510b1f68a4273
+
+"lat":52.1315889,"lon":11.6399609,"country":"DE","state":"Saxony-Anhalt"}]
+https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
